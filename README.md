@@ -1,4 +1,4 @@
-<h2 align="left">Hello. My name is Hendrik and I'm a Junior Fullstack Software Developer.</h2>
+<h2 align="left">Hello. My name is Hendrik and I'm a Junior Software Engineer.</h2>
 
 ###
 
